@@ -1,6 +1,6 @@
 # atml_2020_assignments
 
-Each folder contains a pdf explaining the assignment and a jupyter notebook containing the code and the results.
+Each folder contains a pdf describing the assignment and a jupyter notebook containing the code and the results.
 
 - Assignment1 implements a linear model which classifies images
 - Assignment2 implements a CNN which classifies images
